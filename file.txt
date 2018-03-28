@@ -1,0 +1,4 @@
+static_guojiang_tv/mobile/v2/js/chat/rule.js
+static_guojiang_tv/mobile/v2/js/manifest.js
+static_guojiang_tv/src/mobile/v2/js/chat/rule.js
+videochat/web/html/mobile/dist/chat/rule.html
