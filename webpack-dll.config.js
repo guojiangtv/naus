@@ -32,7 +32,7 @@ if(isPc){
 	var outDir = path.resolve(__dirname, './static/dist/mobile');
 	var outPublicDir = 'http://m.naus.io/static/dist/mobile/';
 
-	var entries = ['vue','axios','layer','weixin-js-sdk','webpack-zepto'];
+	var entries = ['vue','axios','layer','webpack-zepto'];
 
 	var dll_manifest_name = 'dll_manifest';
 }

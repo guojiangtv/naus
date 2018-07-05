@@ -41,7 +41,7 @@ if(isPc){
 	var baseEntryDir = './static/src/pc/';
 	var entryDir = baseEntryDir + '**/*.js';
 	var outDir = path.resolve(__dirname, './static/dist/pc');
-	var outPublicDir = 'http://www.naus.io/static/dist/pc/';
+	var outPublicDir = 'http://static.naus.io/dist/pc/';
 	var basePageDir = 'html/pc';
 	var basePageEntry = './'+basePageDir+'/';
 	var browserSyncBaseDir = './'+basePageDir+'/dist';
@@ -67,7 +67,7 @@ if(isPc){
 	var baseEntryDir = './static/src/mobile/';
 	var entryDir = baseEntryDir + '**/*.js';
 	var outDir = path.resolve(__dirname, './static/dist/mobile');
-	var outPublicDir = 'http://m.naus.io/static/dist/mobile/';
+	var outPublicDir = 'http://static.naus.io/dist/mobile/';
 	var basePageDir = 'html/mobile';
 	var basePageEntry = './'+basePageDir+'/';
 	var browserSyncBaseDir = './'+basePageDir+'/dist';
